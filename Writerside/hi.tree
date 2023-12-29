@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Book.md">
+
+    <toc-element topic="Book.md">
+        <toc-element topic="01-Software-Engineering.md">
+            <toc-element topic="ch1-생산성-측정하기-왕도가-없다.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>
